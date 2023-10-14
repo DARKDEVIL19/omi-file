@@ -204,7 +204,7 @@ logo ="""
 \033[1;32m##     ## ######   ##     ##  ##  ##       
 \033[1;34m##     ## ##        ##   ##   ##  ##       
 \033[1;35m##     ## ##         ## ##    ##  ##       
-\033[1;36m########  ########    ###    #### ######## 
+\033[1;36m########  ########    ###    #### ######## 			 DARK DEVIL OMI 🫰🤘
 ╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 ║\33[0;41m        [ DATA + WIFI  WORKING]         \033[0;96m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
@@ -214,11 +214,11 @@ logo ="""
 ╠══[Github                   • \33[1;38mFUCK YOU🖕 ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 01406115895 ]  ║\33[1;35m 
 ╠══[TOOLS                    • TRAIL ]         ║ \33[1;32m   
-╠══[VERSION                  • 10.3]           ║\033[1;35m 
+╠══[VERSION                  • 10.4]           ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m"""
 os.system('clear')
 os.system('espeak -a 300 " ENTER USERNAME"')
-CorrectUsername = 'FUCK'
+CorrectUsername = 'OMI'
 key = 'XNXX'
 while key == 'XNXX':
     username = input('\033[0;97m[•]\033[1;96m•➤ \033[1;92mENTER USERNAME \033[1;91m: \x1b[1;92m')
@@ -582,33 +582,19 @@ def passwrd():
                     pwv.append(frs+'@123')
                     pwv.append(frs+'@1234')
                     pwv.append(frs+'@12345')
-                    pwv.append(frs+'@123456')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@@@')
-                    pwv.append(frs+'@@')
-                    pwv.append(frs+'@')
-                    pwv.append(frs+'1212')
-                    pwv.append(frs+'1122')
-                    pwv.append(frs+'@#')
-                    pwv.append(frs+'@@##')
-                    pwv.append(frs+'@#@#')
-                    pwv.append(frs+'123456')
-                    pwv.append(frs+'@11')
-                    pwv.append(frs+'@12')
-                    pwv.append(frs+'@1212')
-                    pwv.append(frs+'@1122')
-                    pwv.append(frs+'##')
+                    pwv.append(frs+'@@')                   
+                    pwv.append(frs+'@#')                                      
+                    pwv.append(frs+'123456')                   
                     pwv.append(frs+'1212')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'111')
                     pwv.append(frs+'121')
                     pwv.append(frs+'@121')
-                    pwv.append(nmf+'12')
-                    pwv.append(nmf+'123')
-                    pwv.append(nmf+'1212')
-                    pwv.append(nmf+'111')
+                    pwv.append(nmf+'12')                    
                     pwv.append(frs+'@111')
               
             else:         
@@ -617,41 +603,26 @@ def passwrd():
                 else:
                     pwv.append(frs+'12')
                     pwv.append(frs+'123')
-                    pwv.append(nmf+'12')
-                    pwv.append(nmf+'123')
-                    pwv.append(nmf+'1212')
-                    pwv.append(nmf+'111')
                     pwv.append(nmf)
                     pwv.append(frs+'1234')
                     pwv.append(frs+'12345')
                     pwv.append(frs+'@123')
                     pwv.append(frs+'@1234')
                     pwv.append(frs+'@12345')
-                    pwv.append(frs+'@123456')
                     pwv.append(frs+'11')
                     pwv.append(frs+'111')
                     pwv.append(frs+'@@@@')
                     pwv.append(frs+'@@@')
-                    pwv.append(frs+'@@')
-                    pwv.append(frs+'@')
-                    pwv.append(frs+'1212')
-                    pwv.append(frs+'1122')
-                    pwv.append(frs+'@#')
-                    pwv.append(frs+'@@##')
-                    pwv.append(frs+'@#@#')
-                    pwv.append(frs+'123456')
-                    pwv.append(frs+'@11')
-                    pwv.append(frs+'@12')
-                    pwv.append(frs+'@1212')
-                    pwv.append(frs+'@1122')
-                    pwv.append(frs+'##')
+                    pwv.append(frs+'@@')                   
+                    pwv.append(frs+'@#')                                      
+                    pwv.append(frs+'123456')                   
                     pwv.append(frs+'1212')
                     pwv.append(frs+'1122')
                     pwv.append(frs+'111')
                     pwv.append(frs+'121')
                     pwv.append(frs+'@121')
+                    pwv.append(nmf+'12')                    
                     pwv.append(frs+'@111')
-                    
             if 'ya' in pwpluss:            
                 for xpwd in pwnya:
                     pwv.append(xpwd)
